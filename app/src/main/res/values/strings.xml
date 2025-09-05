@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">Android Hunt</string>
+    <string name="app_name">Heriberto Limon</string>
 
-    <!-- [A] -->
-    <string name="hello_world">Hello World!</string>
+    <string name="profile_name">Heriberto Limon</string>
+
+    <string name="profile_bio">
+        I am a senior at Texas A&amp;M San Antonio, passionate about learning and improving my skills in the tech industry.
+    </string>
+
+    <string name="hobbies_title">Hobbies</string>
+
+    <string name="hobbies">
+        • Watching Boxing and UFC&#10;
+        • Playing Soccer&#10;
+        • Traveling around the USA
+    </string>
 </resources>
